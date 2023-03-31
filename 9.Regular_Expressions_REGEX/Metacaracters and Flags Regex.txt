@@ -1,0 +1,37 @@
+Metacaracters and Flags Regex:
+
+\d	- Digits (0-9)
+\D 	- No Digits (0-9)
+\w	- Caracter (a-z, A-Z, 0-9, _)
+\W	- No Caracters
+\s	- Blank space (space, tab, new line)
+\S	- No blank space (space, tab, new line)
+.	- Whatever caracter except new line
+\	- Cancell special caracters
+^	- Start with a specific string
+$	- End in a string
+
+
+
+Caracters numbers:
+*	- 0 or more
++	- 1 or more
+?	- 1 or 0
+{3}	- Exact number
+{3,4}	- Number range(Min, Max)
+
+( )	- Groups
+[]	- Find caracters : [a-dA-D0-9]
+[^ ]	- Find abs of a caracter: [^a-d] 
+|	- 
+
+\b	- Word limit : .\b right limit
+\B	- Without limit 
+
+\1	- Reference
+
+
+
+
+
+caracteres que no estan dentro de corchetes

@@ -1,0 +1,7 @@
+Instalar Beautiful Soup:
+- pip install bs4 
+
+- pip install requests
+
+Para extraer la información de archivo html y Beautiful Soup necesita esta libreria:
+- pip install lxml
